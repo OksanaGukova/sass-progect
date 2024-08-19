@@ -24,7 +24,7 @@
       }
     }
   } @else {
-    @error "";
+    @error "This breakpoint doesn't exist";
   }
 }
 
